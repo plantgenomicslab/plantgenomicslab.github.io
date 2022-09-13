@@ -1,5 +1,5 @@
-# Sanders Lab
+# Yim Lab
 
-Our website is based on the open source templates designed and shared by the labs of [D. Allan Drummond](http://www.allanlab.org/aboutwebsite.html) and [Trevor Bedford](http://bedford.io/misc/about/). We downloaded source codes from their repository and modified our contents based on shared templates. We greatly thank for Allan and Trevor for allowing reuse of their codebase. 
+Our website is based on the open source templates designed and shared by the labs of Dr. Won Yim. We downloaded source codes from their repository and modified our contents based on shared templates.
 
-The website is deployed using [GitHub Pages](https://sanderslab.github.io) and the source code is available on [GitHub](https://github.com/sanderslab). Please feel free to reuse this code (making sure to cite the Bedford lab and Drummond lab as the original sources of the lab website template).
+The website is deployed using [GitHub Pages](https://plantgenomicslab.github.io) and the source code is available on [GitHub](https://github.com/plantgenomicslab/plantgenomicslab.github.io). Please feel free to reuse this code.
