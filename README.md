@@ -9,7 +9,8 @@ The website is deployed using [GitHub Pages](https://plantgenomicslab.github.io)
 ## Publication site
 - _pages/publications.md
 ## Member site
-- _pages/team.md
+- https://github.com/plantgenomicslab/plantgenomicslab.github.io/blob/main/_pages/team.md
+- https://github.com/plantgenomicslab/plantgenomicslab.github.io/tree/main/team
 
 
 This website code was fork from [Sanders lab](https://github.com/sanderslab/sanderslab.github.io)
