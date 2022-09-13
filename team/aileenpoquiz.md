@@ -1,18 +1,18 @@
+### Education
 ---
 layout: member
-title: Aileen Poquiz
-position: Executive Analyst
-handle: aileenpoquiz
-email: aileen.poquiz@ucsf.edu
-twitter:
-github:
-scholar: 
-photo: aileenpoquiz.jpg
-ucsf: 
+title: Mia Swain
+position: Graduate student 
+handle: miaswain
+email: mias@nevada.unr.edu
+twitter: miamiapizzeria
+github: MiaSwain
+scholar: W6fdJd0AAAAJ
+photo: miaswain.png
+
 ---
-
 ### Overview
-
-Aileen is the executive analyst in the Sanders Lab at UCSF. In her role, Aileen provides administrative and project support to all members in the lab. She is responsible for providing high level support to fulfill the overall objective of assuring an efficient and highly organized administrative function as well as anticipating the needs of the lab and proactively taking action to address their needs.
+Mia is PhD student using functional genomics to understand fatty acid synthesis in Brassica oilseed species, which include crops such as canola. Mia uses a combination of bioinformatics and molecular biology to study the genetic underpinnings that determine erucic acid content in the seed oil, a very-long-chain fatty acid ideal for biofuel production. Her work aims to increase the erucic acid content in the seed oil of Brassica species to develop biofuel feedstocks that use limited resources such as water and land more efficiently.
 
 ### Education
+- B.S. Biochemistry and Molecular Biology, University of Nevada, Reno
